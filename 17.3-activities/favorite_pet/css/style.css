@@ -1,0 +1,45 @@
+nav {
+    background-color: rgb(223, 184, 223);
+    height: 50px;
+    }
+.menu-item {
+    display: inline-block;
+    width: 100px;
+    height: 35px;
+    color:aliceblue;
+    background-color: lightpink;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 15px
+}
+
+.sidebar {
+    width: 29%;
+    background-color: rgb(158, 154, 191);
+    float: left;
+    height: 1000px;
+}
+
+.main-content{
+    width: 60%;
+    float: left;
+    background-color: rgb(162, 188, 210);
+}
+
+.pet-name{
+    text-align: center;
+}
+
+.pet-name img {
+    width: 280px;
+}
+
+.pet-content{
+    padding:20px
+}
+
+.pet-content img{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+}
