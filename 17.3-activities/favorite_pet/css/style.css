@@ -17,7 +17,20 @@ nav {
     width: 29%;
     background-color: rgb(158, 154, 191);
     float: left;
-    height: 1000px;
+    height: 800px;
+}
+
+.sidebar-lower{
+    background-color: rgb(229, 215, 195);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.sidebar-stats{
+    padding: 20px;
+    padding-bottom: 40px;
+    text-align: left;
+
 }
 
 .main-content{
@@ -39,7 +52,23 @@ nav {
 }
 
 .pet-content img{
-    width: 400px;
+    width: 180px;
     float: left;
     margin-right: 20px;
+}
+
+.bottom-content{
+    width: 60%;
+    float: left;
+    background-color: rgb(223, 184, 223);
+    text-align: center;
+}
+
+.pet-info img{
+    width:200px
+    
+}
+
+.higgins{
+    display: inline-block;
 }
