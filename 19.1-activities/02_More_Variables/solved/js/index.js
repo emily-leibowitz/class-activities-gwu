@@ -12,10 +12,10 @@ addNumbers();
 
 // Create the stringConcat function here.
 function stringConcat() {
-    var taco = 'taco';
+    var myNameTaco = 'taco';
     var cat = 'cat';
 
-    var tacoCat = taco + ' ' + cat;
+    var tacoCat = myNameTaco + ' ' + cat;
 
     alert(tacoCat);
 }
