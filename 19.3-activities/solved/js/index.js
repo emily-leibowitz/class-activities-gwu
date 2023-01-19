@@ -19,6 +19,6 @@ $(".searchButton").on("click", function(){
 
 $(".toggle").click(function(){
   $(this).find(".toggleContainer").toggleClass("active");
-  $(this).siblings(".toggle").find(".toggleContainer").removeClass("active");
+  $(this).find(".toggle").find(".toggleContainer").removeClass("active");
 });
  
