@@ -1,0 +1,25 @@
+.customNav{
+    background-color: #DDB7C9;
+}
+
+.heroBackground{
+    background-image: url(../images/header.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.title{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+border:#DDB7C9 5px solid;
+width: 250px;
+white-space: nowrap;
+    
+}
